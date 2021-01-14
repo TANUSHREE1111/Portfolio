@@ -1,0 +1,78 @@
+
+
+.heading{
+    background-color: rgb(161, 248, 248);
+    
+    
+}
+
+ h3{
+    font: small;
+    padding-left: inherit;
+    color:goldenrod;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.project-title h1{
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color:rgb(5, 5, 78);
+}
+
+body{
+    background-color: rgb(244, 255, 140);
+   
+}
+
+.container-left img{
+    width:320px;
+    height:480px;
+    margin-right:80px;
+    margin-left:100px; 
+
+}
+.container-left h2{
+    color:rgb(143, 4, 4);
+}
+
+.container-left p{
+    padding-bottom:4px;
+}
+
+.container h2{
+    text-align: right;
+    color:rgb(143, 4, 4);
+    padding-right:55px;
+    padding-bottom:0px;
+}
+
+.container p{
+    font:bold;
+    text-align: right;
+    padding-right:35px;
+}
+
+.container-bottom{
+    display:flex;
+    width:20%;
+    margin-left:40px;
+}
+.container-hobby img{
+    width:200px;
+    height:200px;
+    padding-left: 30px;
+    padding-right:25px;
+
+}
+.container-hobby p{
+    padding-left:40px;
+    color:rgb(6, 58, 58);
+}
+
+.last a:hover{
+    background-color:tomato;
+    cursor:pointer;
+}
